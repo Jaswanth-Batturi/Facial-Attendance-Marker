@@ -21,6 +21,6 @@ If "Attendance.csv" file is not found, it creates a file on its own and marks th
 
 Note: The first arrival time is only saved in the "Attendance.csv" file.
 
-Important: If you want to take the attendance again on the next day, don't forget to clear the "Attendance.csv" file old data.
+**Important: If you want to take the attendance again on the next day, don't forget to clear the "Attendance.csv" file old data.
 
 Press 'q' to turn off the camera.
