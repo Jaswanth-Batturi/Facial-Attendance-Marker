@@ -9,7 +9,7 @@ import os
 import pickle
 
 # Folder path of the images
-path = 'ImagesAttendance'
+path = 'Images'
 
 classNames = [] # names
 images = [] # images
